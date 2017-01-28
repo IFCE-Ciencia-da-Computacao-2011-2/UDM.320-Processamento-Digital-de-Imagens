@@ -2,8 +2,8 @@ from abc import ABCMeta, abstractmethod
 
 import cv2
 
-from pill.image_similarity import ImageSimilarityProcessor
-from pill.image_similarity import RGBColorSimilarity, HSVColorSimilarity, CIELABColorSimilarity
+from image_similarity.image_similarity_processor import ImageSimilarityProcessor
+from image_similarity.color_similarity.color_similarity import RGBColorSimilarity, HSVColorSimilarity, CIELABColorSimilarity
 
 
 class ColorSimilarityProcessor(ImageSimilarityProcessor, metaclass=ABCMeta):

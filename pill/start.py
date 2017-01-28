@@ -3,8 +3,8 @@ import os.path
 
 import pandas as pd
 
-from pill.image_similarity import ColorMeanProcessor
-from pill.image_similarity import RGBColorSimilarityProcessor, HSVColorSimilarityProcessor, CIELABColorSimilarityProcessor
+from image_similarity.color_similarity.color_mean_processor import ColorMeanProcessor
+from image_similarity.color_similarity_processor import RGBColorSimilarityProcessor, HSVColorSimilarityProcessor, CIELABColorSimilarityProcessor
 
 
 class ImagesProcessorByColor(object):

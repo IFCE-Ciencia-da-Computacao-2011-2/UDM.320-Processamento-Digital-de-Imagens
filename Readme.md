@@ -4,5 +4,5 @@
 
 ## Trabalhos
 
- * [PILL - Trabalho Processamento Digital de Imagem - Pílulas](pill/Readme.md)
+ * [PILL - Trabalho Processamento Digital de Imagem - Pílulas](pill/)
 
