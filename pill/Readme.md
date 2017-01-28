@@ -3,7 +3,7 @@
 ## Índice
 
  * **[0. Trabalho.ipynb](0. Trabalho.ipynb)** - Descrição do trabalho
- * **1. Informações gerais do banco de imagens.ipynb_
+ * **[1. Informações gerais do banco de imagens.ipynb](1. Informações gerais do banco de imagens.ipynb)**
    * 1.1 Todas as imagens possuem o mesmo tamanho?
    * 1.2 O cinza de fundo de todas as imagens é a mesma cor?
    * 1.3 O quanto de cinza cada imagem possui?
