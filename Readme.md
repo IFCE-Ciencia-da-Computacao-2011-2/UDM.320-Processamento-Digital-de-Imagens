@@ -3,8 +3,8 @@
 ## Informações
 
  * **Professor**: Francisco Nivando Bezerra - [Lattes](http://lattes.cnpq.br/6633009717485302)
- * **Semestre**: 2016.1
- * **[Matriz Curricular](https://qacademico.ifce.edu.br/qacademico/index.asp?t=1012&TIPO_BUSCA_PLANO_ENSINO=PAUTA&CODIGO_BUSCA_PLANO_ENSINO=243711)**
+ * **Semestre**: 2016.2
+ * **[Ementa](UDM320-Processamento_de_Imagens.pdf)**
 
 ## Material
 [Matriz curricular](https://qacademico.ifce.edu.br/qacademico/index.asp?t=1012&TIPO_BUSCA_PLANO_ENSINO=DISCIPLINA&CODIGO_BUSCA_PLANO_ENSINO=19464)
