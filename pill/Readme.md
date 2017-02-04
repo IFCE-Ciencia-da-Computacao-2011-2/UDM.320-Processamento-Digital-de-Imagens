@@ -1,6 +1,14 @@
 # PILL - Trabalho Processamento Digital de Imagem - Pílulas
 
+ * **Equipe:**
+   * Iedo Rocha
+   * Paulo Mateus Moura da Silva
+   * Willian Vieira Bastos
+ * **Linguagem:** Python 3
+
 ## Índice
+
+### Análise por comparação de cor
 
  * **[0. Trabalho.ipynb](0. Trabalho.ipynb)** - Descrição do trabalho
  * **[1. Informações gerais do banco de imagens.ipynb](1. Informações gerais do banco de imagens.ipynb)**
@@ -25,7 +33,17 @@
    * 4.2 Comparação RGB
    * 4.3 Comparação H (SV são desconsiderados)
    * 4.4 Comparação L\*a\*b\*
-     
+
+#### Comparação entre métodos de comparação
+
+ * [Análise de crescimento da distância entre pílulas](willian/will_to_do - Copia.ipynb)
+
+### Análise por comparação de histograma
+
+O [programa para análise por comparação de histograma](iedo/) funciona com python 2.
+
 ## Base de dados
 
 A base de dados deve estar em `PILL/`. Não coloquei por ser pesada
+
+
